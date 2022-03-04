@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to The Unoffical Sea of Theives Website
 
-You can use the [editor on GitHub](https://github.com/Savage-Steve/Sea-of-Theives/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You Can Veiw [The Offical Website](www.seaofthieves.com) to Be Kept Up to Date on Events & Updates
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
