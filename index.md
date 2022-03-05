@@ -4,8 +4,11 @@ You Can Veiw [The Offical Website](www.seaofthieves.com) to Be Kept Up to Date o
 
 ## Pets!
 #### Monkeys
- Among The Monkeys, You Will Find _The Capuchin_, _The Barbary_ and _The Marmoset_.
+Among The Monkeys, You Will Find _The Capuchin_, _The Barbary_ and _The Marmoset_.
 #### Cats
 Among The Cats, You Will Find _The Wildcats_, _The Maus_ and _The Ragamuffins_.
 #### Parrots
 Among The Parrots, You Will Find _Macaws_, _Parakeets_ and _Cockatoos_.
+
+## Babu The Pirate Legend's Monkey
+### [Babu](https://static.wikia.nocookie.net/seaofthieves_gamepedia/images/3/3d/Lagoon_Blue_Capuchin.png/revision/latest/scale-to-width-down/1000?cb=20210126170725)
