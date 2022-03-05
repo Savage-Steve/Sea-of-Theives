@@ -11,4 +11,4 @@ Among The Cats, You Will Find _The Wildcats_, _The Maus_ and _The Ragamuffins_.
 Among The Parrots, You Will Find _Macaws_, _Parakeets_ and _Cockatoos_.
 
 ## Babu The Pirate Legend's Monkey
-### ![Babu](https://static.wikia.nocookie.net/seaofthieves_gamepedia/images/3/3d/Lagoon_Blue_Capuchin.png/revision/latest/scale-to-width-down/1000?cb=20210126170725)
+### ![Babu](https://static.wikia.nocookie.net/seaofthieves_gamepedia/images/3/3d/Lagoon_Blue_Capuchin.png/revision/latest/scale-to-width-down/250?cb=20210126170725)
