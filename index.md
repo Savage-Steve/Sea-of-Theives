@@ -1,6 +1,6 @@
 # Welcome to The Unoffical Sea of Theives Website
 
-You Can Veiw [The Offical Website](www.seaofthieves.com) to Be Kept Up to Date on Events & Updates
+You Can Veiw [The Offical Website](https://www.seaofthieves.com/) to Be Kept Up to Date on Events & Updates
 
 ## Pets!
 #### Monkeys
